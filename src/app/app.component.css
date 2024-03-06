@@ -1,0 +1,12 @@
+p {
+    font-size: 2rem;
+    text-align: center;
+    font-weight: bolder;
+}
+
+div {
+    margin-left: 30%;
+    margin-right: 30%;
+    height: 400px;
+    background-color: brown;
+}
